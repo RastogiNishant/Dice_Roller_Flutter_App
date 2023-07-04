@@ -1,4 +1,4 @@
-# Demo_Flutter_App
+# Dice Roller Flutter App
 
 A new Flutter project.
 
